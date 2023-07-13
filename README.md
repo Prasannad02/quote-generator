@@ -15,7 +15,7 @@
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Quote-Generator/
+    https://prasannad02.github.io/quote-generator/
 
 ## Getting Started
 
